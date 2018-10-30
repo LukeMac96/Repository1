@@ -3,7 +3,7 @@ package CT_417.Assignment_1;
 
 
 public class student {   
-	
+	 
 	
 	private String Name;
 	private int Age; 

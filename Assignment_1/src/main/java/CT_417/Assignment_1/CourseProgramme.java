@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class CourseProgramme { 
 
 	private String CourseName;
-	private ArrayList<Module> Modules = new ArrayList<Module>();
+	private ArrayList<Module> Modules = new ArrayList<Module>(); 
 	private DateTime StartDate;
 	private DateTime EndDate;
 	
